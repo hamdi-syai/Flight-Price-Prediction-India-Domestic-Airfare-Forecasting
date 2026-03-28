@@ -113,7 +113,9 @@ Metrics used:
 - Airlines can leverage the model inversely for dynamic pricing and yield management strategies
 
 ## 📸 Visualizations
-*(Add key charts from the notebook here)*
+<img width="1784" height="1011" alt="téléchargement (2)" src="https://github.com/user-attachments/assets/bbe40998-4177-4b9c-af44-8ebf561cade3" />
+<img width="1784" height="492" alt="téléchargement (3)" src="https://github.com/user-attachments/assets/e51890ba-b126-418f-aeaf-9c1315cb37b8" />
+
 
 ## 🚀 Future Improvements
 - Incorporate real-time flight data via airline APIs for live price monitoring
